@@ -1,7 +1,6 @@
 from flask import Flask, Response, request
 import json
 import pymongo
-import dns
 from bson.objectid import ObjectId
 import env
 
